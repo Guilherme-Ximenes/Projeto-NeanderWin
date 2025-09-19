@@ -1,7 +1,7 @@
 ; ---------------------------------------------------------------------------------------
-; Projeto: Calcular MDC entre dois números inteiros em 8 bits com algoritmo de Euclides 
-; Autor: Guilherme Santana Bernardo Ximenes
-; Data: 16/09/2025
+; Project: Calcular MDC entre dois números inteiros em 8 bits com algoritmo de Euclides 
+; Programmer: Guilherme Santana Bernardo Ximenes
+; Date: 16/09/2025
 ; ---------------------------------------------------------------------------------------
 
 ; --INÍCIO---
